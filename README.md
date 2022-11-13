@@ -1,6 +1,6 @@
 <h1>Context</h1>
-ÀIRNEIS ("furniture" in Scottish Gaelic) is a Scottish company that resells furniture designed by Scottish designers. They have expressed their desire to move into the digital age and wish to create their own e-commerce solution to reach an international clientele but also to reach deeper into the one they already have locally.
-The final deliverable required is a mobile-first e-commerce website and a mobile application mobile application, and a web backoffice to manage the content, all with an integrated content, all with a secure and maintainable payment system over time.
+ÀIRNEIS ("furniture" in Scottish Gaelic) is a Scottish company that resells furniture designed by Scottish designers. They have expressed their desire to move into the digital age and wish to create their own e-commerce solution to reach an international clientele and expend the one they already have locally.
+The final deliverable required is a mobile-first e-commerce website and a mobile application, with a web backoffice to manage the content, an integrated content and a secure and maintainable payment system over time.
 
 <h1>Our team</h1>
 <table>
